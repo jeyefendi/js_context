@@ -18,7 +18,7 @@
 * **BUT** call directly
 
 ## Apply 
-* the same as **call**
+* the same as **[call](#call)**
 * **BUT** with only 2 parametres
 
 # CASE
