@@ -6,7 +6,7 @@
 * indicates the object in the context of which it is called
 * related with element to the left of the point 
 
-## Bind {#bind}
+## Bind
 
 * let object borrow a method from another object
 * move context to current object
